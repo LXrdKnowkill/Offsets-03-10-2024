@@ -17,7 +17,7 @@
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x18220C0 + 8"
+                "value": "0x18220C8"
             },
             {
                 "name": "dwPlantedC4",
