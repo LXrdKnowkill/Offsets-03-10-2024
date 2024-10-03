@@ -71,39 +71,39 @@
             },
             {
                 "name": "m_pBulletServices",
-                "value": "0x1468"
+                "value": "0x1510"
             },
             {
                 "name": "m_aimPunchAngle",
-                "value": "0x14CC"
+                "value": "0x1574"
             },
             {
                 "name": "m_aimPunchCache",
-                "value": "0x14F0"
+                "value": "0x1598"
             },
             {
                 "name": "m_bIsBuyMenuOpen",
-                "value": "0x151A"
+                "value": "0x15C2"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x2288"
+                "value": "0x23A8"
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x22A0"
+                "value": "0x23C0"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x22A2"
+                "value": "0x23C2"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x22B4"
+                "value": "0x23D4"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x22D4"
+                "value": "0x23F4"
             },
             {
                 "name": "m_hViewModel",
@@ -119,7 +119,7 @@
             },
             {
                 "name": "m_pViewModelServices",
-                "value": "0x12B8"
+                "value": "0x1360"
             },
             {
                 "name": "m_vecLastClipCameraPos",
@@ -183,7 +183,7 @@
             },
             {
                 "name": "m_pGameSceneNode",
-                "value": "0x308"
+                "value": "0x328"
             },
             {
                 "name": "m_iMaxHealth",
@@ -195,7 +195,7 @@
             },
             {
                 "name": "m_iTeamNum",
-                "value": "0x3C3"
+                "value": "0x3E3"
             },
             {
                 "name": "m_vecAbsVelocity",
