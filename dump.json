@@ -257,23 +257,23 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x1090"
+                "value": "0x1140"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x1540"
+                "value": "0x15F0"
             },
             {
                 "name": "m_nFallbackSeed",
-                "value": "0x1544"
+                "value": "0x15F4"
             },
             {
                 "name": "m_flFallbackWear",
-                "value": "0x1548"
+                "value": "0x15F8"
             },
             {
                 "name": "m_nFallbackStatTrak",
-                "value": "0x154C"
+                "value": "0x15FC"
             },
             {
                 "name": "m_iEntityQuality",
@@ -289,7 +289,7 @@
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0x1170"
+                "value": "0x1140"
             }
         ]
     },
@@ -302,7 +302,7 @@
             },
             {
                 "name": "m_iMaxClip1",
-                "value": "0x1FC"
+                "value": "0x2F4"
             },
             {
                 "name": "m_MeshGroupMask",
@@ -318,23 +318,23 @@
             },
             {
                 "name": "m_bInReload",
-                "value": "0x1740"
+                "value": "0x17F0"
             },
             {
                 "name": "m_WeaponType",
-                "value": "0x250"
+                "value": "0x348"
             },
             {
                 "name": "m_flCycleTime",
-                "value": "0xC4C"
+                "value": "0xD44"
             },
             {
                 "name": "m_flInaccuracyMove",
-                "value": "0xC94"
+                "value": "0xD8C"
             },
             {
                 "name": "m_flPenetration",
-                "value": "0xD54"
+                "value": "0xE4C"
             }
         ]
     },
@@ -343,15 +343,15 @@
         "constants": [
             {
                 "name": "m_nBombSite",
-                "value": "0xED4"
+                "value": "0xF8C"
             },
             {
                 "name": "m_bBeingDefused",
-                "value": "0xF0C"
+                "value": "0xFC4"
             },
             {
                 "name": "m_flDefuseCountDown",
-                "value": "0xF20"
+                "value": "0xFD8"
             }
         ]
     },
@@ -372,7 +372,7 @@
             },
             {
                 "name": "m_pInGameMoneyServices",
-                "value": "0x700"
+                "value": "0x720"
             }
         ]
     },
@@ -381,39 +381,39 @@
         "constants": [
             {
                 "name": "m_nSmokeEffectTickBegin",
-                "value": "0x1158"
+                "value": "0x1208"
             },
             {
                 "name": "m_bDidSmokeEffect",
-                "value": "0x115C"
+                "value": "0x120C"
             },
             {
                 "name": "m_nRandomSeed",
-                "value": "0x1160"
+                "value": "0x1210"
             },
             {
                 "name": "m_vSmokeColor",
-                "value": "0x1164"
+                "value": "0x1214"
             },
             {
                 "name": "m_vSmokeDetonationPos",
-                "value": "0x1170"
+                "value": "0x1220"
             },
             {
                 "name": "m_VoxelFrameData",
-                "value": "0x1180"
+                "value": "0x1230"
             },
             {
                 "name": "m_bSmokeVolumeDataReceived",
-                "value": "0x1198"
+                "value": "0x1248"
             },
             {
                 "name": "m_bSmokeEffectSpawned",
-                "value": "0x1199"
+                "value": "0x1249"
             },
             {
                 "name": "m_vSmokeColor",
-                "value": "0xD84"
+                "value": "0xE7C"
             }
         ]
     }
