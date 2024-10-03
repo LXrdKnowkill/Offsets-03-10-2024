@@ -46,19 +46,19 @@
         "constants": [
             {
                 "name": "m_iszPlayerName",
-                "value": "0x640"
+                "value": "0x660"
             },
             {
                 "name": "m_flGravityScale",
-                "value": "0x440"
+                "value": "0x460"
             },
             {
                 "name": "m_hPlayerPawn",
-                "value": "0x7EC"
+                "value": "0x80C"
             },
             {
                 "name": "m_bPawnIsAlive",
-                "value": "0x7F4"
+                "value": "0x814"
             }
         ]
     },
