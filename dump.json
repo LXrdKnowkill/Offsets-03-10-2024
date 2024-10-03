@@ -187,11 +187,11 @@
             },
             {
                 "name": "m_iMaxHealth",
-                "value": "0x320"
+                "value": "0x340"
             },
             {
                 "name": "m_iHealth",
-                "value": "0x324"
+                "value": "0x344"
             },
             {
                 "name": "m_iTeamNum",
