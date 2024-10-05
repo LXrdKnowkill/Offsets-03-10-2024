@@ -150,7 +150,7 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x23A8"
+                "value": "0x1B38"
             },
             {
                 "name": "m_pWeaponServices",
@@ -178,11 +178,11 @@
             },
             {
                 "name": "m_vecOrigin",
-                "value": "0x548"
+                "value": "0x568"
             },
             {
                 "name": "m_pGameSceneNode",
-                "value": "0x308"
+                "value": "0x328"
             },
             {
                 "name": "m_iMaxHealth",
@@ -194,15 +194,15 @@
             },
             {
                 "name": "m_iTeamNum",
-                "value": "0x3C3"
+                "value": "0x3E3"
             },
             {
                 "name": "m_vecAbsVelocity",
-                "value": "0x3D0"
+                "value": "0x3F0"
             },
             {
                 "name": "m_hOwnerEntity",
-                "value": "0x420"
+                "value": "0x440"
             },
             {
                 "name": "m_vecOrigin",
@@ -210,11 +210,11 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x10F8"
+                "value": "0x11A0"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0xEE0"
+                "value": "0xF98"
             }
         ]
     },
@@ -223,7 +223,7 @@
         "constants": [
             {
                 "name": "m_hPawn",
-                "value": "0x60C"
+                "value": "0x62C"
             },
             {
                 "name": "m_pObserverServices",
