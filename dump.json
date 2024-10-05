@@ -227,11 +227,11 @@
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x1110"
+                "value": "0x11B8"
             },
             {
                 "name": "m_hController",
-                "value": "0x128C"
+                "value": "0x1334"
             },
             {
                 "name": "m_hObserverTarget",
@@ -239,15 +239,15 @@
             },
             {
                 "name": "m_iPawnArmor",
-                "value": "0x7FC"
+                "value": "0x81C"
             },
             {
                 "name": "m_bPawnHasDefuser",
-                "value": "0x800"
+                "value": "0x820"
             },
             {
                 "name": "m_bPawnHasHelmet",
-                "value": "0x801"
+                "value": "0x821"
             }
         ]
     },
@@ -256,23 +256,23 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x1090"
+                "value": "0xFE8"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x1540"
+                "value": "0x15F0"
             },
             {
                 "name": "m_nFallbackSeed",
-                "value": "0x1544"
+                "value": "0x15F4"
             },
             {
                 "name": "m_flFallbackWear",
-                "value": "0x1548"
+                "value": "0x15F8"
             },
             {
                 "name": "m_nFallbackStatTrak",
-                "value": "0x154C"
+                "value": "0x15FC"
             },
             {
                 "name": "m_iEntityQuality",
@@ -288,7 +288,7 @@
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0x1170"
+                "value": "0x1140"
             }
         ]
     },
@@ -371,7 +371,7 @@
             },
             {
                 "name": "m_pInGameMoneyServices",
-                "value": "0x700"
+                "value": "0x720"
             }
         ]
     },
