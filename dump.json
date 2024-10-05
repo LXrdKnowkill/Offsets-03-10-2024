@@ -45,19 +45,19 @@
         "constants": [
             {
                 "name": "m_iszPlayerName",
-                "value": "0x640"
+                "value": "0x660"
             },
             {
                 "name": "m_flGravityScale",
-                "value": "0x440"
+                "value": "0x450"
             },
             {
                 "name": "m_hPlayerPawn",
-                "value": "0x7EC"
+                "value": "0x80C"
             },
             {
                 "name": "m_bPawnIsAlive",
-                "value": "0x7F4"
+                "value": "0x814"
             }
         ]
     },
@@ -70,39 +70,39 @@
             },
             {
                 "name": "m_pBulletServices",
-                "value": "0x1468"
+                "value": "0x1510"
             },
             {
                 "name": "m_aimPunchAngle",
-                "value": "0x14CC"
+                "value": "0x1574"
             },
             {
                 "name": "m_aimPunchCache",
-                "value": "0x14F0"
+                "value": "0x1598"
             },
             {
                 "name": "m_bIsBuyMenuOpen",
-                "value": "0x151A"
+                "value": "0x15C2"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x2288"
+                "value": "0x23A8"
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x22A0"
+                "value": "0x23C0"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x22A2"
+                "value": "0x23C2"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x22B4"
+                "value": "0x23D4"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x22D4"
+                "value": "0x23F4"
             },
             {
                 "name": "m_hViewModel",
@@ -118,55 +118,55 @@
             },
             {
                 "name": "m_pViewModelServices",
-                "value": "0x12B8"
+                "value": "0x1360"
             },
             {
                 "name": "m_vecLastClipCameraPos",
-                "value": "0x12D4"
+                "value": "0x137C"
             },
             {
                 "name": "m_pClippingWeapon",
-                "value": "0x12F0"
+                "value": "0x1398"
             },
             {
                 "name": "m_flFlashMaxAlpha",
-                "value": "0x1358"
+                "value": "0x1400"
             },
             {
                 "name": "m_flFlashDuration",
-                "value": "0x135C"
+                "value": "0x1404"
             },
             {
                 "name": "m_angEyeAngles",
-                "value": "0x1388"
+                "value": "0x1430"
             },
             {
                 "name": "m_iIDEntIndex",
-                "value": "0x13A8"
+                "value": "0x1450"
             },
             {
                 "name": "m_iDesiredFOV",
-                "value": "0x6D4"
+                "value": "0x6F4"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1AA8"
+                "value": "0x23A8"
             },
             {
                 "name": "m_pWeaponServices",
-                "value": "0x10F8"
+                "value": "0x11A0"
             },
             {
                 "name": "m_pCameraServices",
-                "value": "0x1130"
+                "value": "0x11D8"
             },
             {
                 "name": "m_pMovementServices",
-                "value": "0x1138"
+                "value": "0x11E0"
             },
             {
                 "name": "m_vOldOrigin",
-                "value": "0x1274"
+                "value": "0x131C"
             },
             {
                 "name": "m_bSpottedByMask",
@@ -186,11 +186,11 @@
             },
             {
                 "name": "m_iMaxHealth",
-                "value": "0x320"
+                "value": "0x340"
             },
             {
                 "name": "m_iHealth",
-                "value": "0x324"
+                "value": "0x344"
             },
             {
                 "name": "m_iTeamNum",
