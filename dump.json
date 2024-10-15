@@ -334,6 +334,10 @@
             {
                 "name": "m_flPenetration",
                 "value": "0xE4C"
+            },
+            {
+                "name": "m_nSubclassID",
+                "value": "0x378"
             }
         ]
     },
