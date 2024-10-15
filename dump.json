@@ -4,39 +4,39 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x19BDE30"
+                "value": "0x19CA848"
             },
             {
                 "name": "dwGlobalVars",
-                "value": "0x1819000"
+                "value": "0x1823CB0"
             },
             {
                 "name": "dwLocalPlayerController",
-                "value": "0x1A0D8E8"
+                "value": "0x1A1A690"
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x1825138"
+                "value": "0x182FAE8"
             },
             {
                 "name": "dwPlantedC4",
-                "value": "0x1A24078"
+                "value": "0x1A32040"
             },
             {
                 "name": "dwViewAngles",
-                "value": "0x1A29DA0"
+                "value": "0x1A36960"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x1A1FF40"
+                "value": "0x1A2CAD0"
             },
             {
                 "name": "dwWindowHeight",
-                "value": "0x60EE3C"
+                "value": "0x611094"
             },
             {
                 "name": "dwWindowWidth",
-                "value": "0x60EE38"
+                "value": "0x611090"
             }
         ]
     },
@@ -70,7 +70,7 @@
             },
             {
                 "name": "m_pBulletServices",
-                "value": "0x1510"
+                "value": "0x1584"
             },
             {
                 "name": "m_aimPunchAngle",
@@ -78,15 +78,15 @@
             },
             {
                 "name": "m_aimPunchCache",
-                "value": "0x1598"
+                "value": "0x15A8"
             },
             {
                 "name": "m_bIsBuyMenuOpen",
-                "value": "0x15C2"
+                "value": "0x15D2"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x23A8"
+                "value": "0x11A8"
             },
             {
                 "name": "m_bIsScoped",
@@ -94,15 +94,15 @@
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x23C2"
+                "value": "0x23D2"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x23D4"
+                "value": "0x23E4"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x23F4"
+                "value": "0x2404"
             },
             {
                 "name": "m_hViewModel",
@@ -118,31 +118,31 @@
             },
             {
                 "name": "m_pViewModelServices",
-                "value": "0x1360"
+                "value": "0x1368"
             },
             {
                 "name": "m_vecLastClipCameraPos",
-                "value": "0x137C"
+                "value": "0x1384"
             },
             {
                 "name": "m_pClippingWeapon",
-                "value": "0x1398"
+                "value": "0x13A0"
             },
             {
                 "name": "m_flFlashMaxAlpha",
-                "value": "0x1400"
+                "value": "0x1408"
             },
             {
                 "name": "m_flFlashDuration",
-                "value": "0x1404"
+                "value": "0x140C"
             },
             {
                 "name": "m_angEyeAngles",
-                "value": "0x1430"
+                "value": "0x1438"
             },
             {
                 "name": "m_iIDEntIndex",
-                "value": "0x1450"
+                "value": "0x1458"
             },
             {
                 "name": "m_iDesiredFOV",
@@ -150,23 +150,23 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1B38"
+                "value": "0x23B8"
             },
             {
                 "name": "m_pWeaponServices",
-                "value": "0x11A0"
+                "value": "0x11A8"
             },
             {
                 "name": "m_pCameraServices",
-                "value": "0x11D8"
-            },
-            {
-                "name": "m_pMovementServices",
                 "value": "0x11E0"
             },
             {
+                "name": "m_pMovementServices",
+                "value": "0x11E8"
+            },
+            {
                 "name": "m_vOldOrigin",
-                "value": "0x131C"
+                "value": "0x1324"
             },
             {
                 "name": "m_bSpottedByMask",
@@ -178,7 +178,7 @@
             },
             {
                 "name": "m_vecOrigin",
-                "value": "0x568"
+                "value": "0x88"
             },
             {
                 "name": "m_pGameSceneNode",
@@ -206,15 +206,15 @@
             },
             {
                 "name": "m_vecOrigin",
-                "value": "0x88"
+                "value": "0x568"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x11A0"
+                "value": "0x11A8"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0xF98"
+                "value": "0xFA0"
             }
         ]
     },
@@ -227,11 +227,11 @@
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x11B8"
+                "value": "0x11C0"
             },
             {
                 "name": "m_hController",
-                "value": "0x1334"
+                "value": "0x133C"
             },
             {
                 "name": "m_hObserverTarget",
@@ -256,23 +256,23 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x1140"
+                "value": "0x1148"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x15F0"
-            },
-            {
-                "name": "m_nFallbackSeed",
-                "value": "0x15F4"
-            },
-            {
-                "name": "m_flFallbackWear",
                 "value": "0x15F8"
             },
             {
-                "name": "m_nFallbackStatTrak",
+                "name": "m_nFallbackSeed",
                 "value": "0x15FC"
+            },
+            {
+                "name": "m_flFallbackWear",
+                "value": "0x1600"
+            },
+            {
+                "name": "m_nFallbackStatTrak",
+                "value": "0x1604"
             },
             {
                 "name": "m_iEntityQuality",
@@ -288,7 +288,7 @@
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0xFE8"
+                "value": "0xFF0"
             }
         ]
     },
@@ -317,7 +317,7 @@
             },
             {
                 "name": "m_bInReload",
-                "value": "0x1740"
+                "value": "0x17F8"
             },
             {
                 "name": "m_WeaponType",
@@ -346,15 +346,15 @@
         "constants": [
             {
                 "name": "m_nBombSite",
-                "value": "0xF8C"
+                "value": "0xF94"
             },
             {
                 "name": "m_bBeingDefused",
-                "value": "0xFC4"
+                "value": "0xFCC"
             },
             {
                 "name": "m_flDefuseCountDown",
-                "value": "0xFD8"
+                "value": "0xFE0"
             }
         ]
     },
