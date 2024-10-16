@@ -355,6 +355,14 @@
             {
                 "name": "m_flDefuseCountDown",
                 "value": "0xFE0"
+            },
+            {
+                "name": "m_flC4Blow",
+                "value": "0xFE0"
+            },
+            {
+                "name": "m_bC4Activated",
+                "value": "0xFD8"
             }
         ]
     },
