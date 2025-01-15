@@ -70,11 +70,11 @@
             },
             {
                 "name": "m_pBulletServices",
-                "value": "0x1584"
+                "value": "0x1518"
             },
             {
                 "name": "m_aimPunchAngle",
-                "value": "0x1574"
+                "value": "0x1584"
             },
             {
                 "name": "m_aimPunchCache",
@@ -86,23 +86,23 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x11A8"
+                "value": "0x23D0"
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x23C0"
+                "value": "0x23E8"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x23D2"
+                "value": "0x23EA"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x23E4"
+                "value": "0x23FC"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x2404"
+                "value": "0x241C"
             },
             {
                 "name": "m_hViewModel",
@@ -178,7 +178,7 @@
             },
             {
                 "name": "m_vecOrigin",
-                "value": "0x88"
+                "value": "0x568"
             },
             {
                 "name": "m_pGameSceneNode",
