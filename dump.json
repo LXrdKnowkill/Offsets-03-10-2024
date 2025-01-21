@@ -387,6 +387,27 @@
             }
         ]
     },
+    "GrenadeProjetctileOffsets": {
+        "name": "GrenadeProjetctileOffsets",
+        "constants": [
+            {
+                "name": "vecLastTrailLinePos",
+                "value": "0x11AC"
+            },
+            {
+                "name": "",
+                "value": ""
+            },
+            {
+                "name": "",
+                "value": ""
+            },
+            {
+                "name": "",
+                "value": ""
+            }
+        ]
+    },
     "SmokeGrenadeProjectileOffsets": {
         "name": "SmokeGrenadeProjectileOffsets",
         "constants": [
