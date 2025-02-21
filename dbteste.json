@@ -1,48 +1,15 @@
-{
-  "categories": [
-    {
-      "name": "Animes",
-      "videos": [
-        {
-          "title": "Teste1",
-          "description": "beta teste",
-          "thumbnail": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fscreens%2Fao-no-hako%2F021.jpg&w=384&q=75",
-          "video_url": "https://exemplo.com/video1.mp4",
-          "episodes": [
-            {
-              "episode": 1,
-              "title": "Ep 1: Início",
-              "video_url": "https://lightspeedst.net/s5/mp4/ao-no-hako/sd/20.mp44"
-            },
-            {
-              "episode": 2,
-              "title": "Ep 2: Continuação",
-              "video_url": "https://lightspeedst.net/s5/mp4/ao-no-hako/sd/20.mp4"
-            }
-          ]
-        },
-        {
-          "title": "Vídeo 2",
-          "description": "Descrição do Vídeo 2",
-          "thumbnail": "https://exemplo.com/thumb2.jpg",
-          "video_url": "https://exemplo.com/video2.mp4",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "name": "Filmes",
-      "videos": [
-        {
-          "title": "Filme 1",
-          "description": "Descrição do Filme 1",
-          "thumbnail": "https://exemplo.com/thumb3.jpg",
-          "video_url": "https://exemplo.com/filme1.mp4",
-          "episodes": []
-        }
-      ]
-    }
-  ]
-}
-
-
+[
+  {
+    "title": "Anime1",
+    "description": "Dsksksks teste ",
+    "thumbnail": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fscreens%2Fao-no-hako%2F021.jpg&w=384&q=75",
+    "video_url": "https://lightspeedst.net/s5/mp4/ao-no-hako/sd/20.mp4"
+  },
+  {
+    "title": "Vídeo 2",
+    "description": "Descrição do vídeo 2",
+    "thumbnail": "https://link-para-miniatura2.jpg",
+    "video_url": "https://link-para-video2.mp4"
+  }
+  // ... mais vídeos
+]
