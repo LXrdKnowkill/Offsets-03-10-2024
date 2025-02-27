@@ -3,13 +3,6 @@
     "title": "Anime1",
     "description": "Dsksksks teste ",
     "thumbnail": "https://www.anroll.net/_next/image?url=https%3A%2F%2Fstatic.anroll.net%2Fimages%2Fanimes%2Fscreens%2Fao-no-hako%2F021.jpg&w=384&q=75",
-    "video_url": "https://lightspeedst.net/s5/mp4/ao-no-hako/sd/20.mp4"
+    "url": "https://lightspeedst.net/s5/mp4/ao-no-hako/sd/20.mp4"
   },
-  {
-    "title": "Vídeo 2",
-    "description": "Descrição do vídeo 2",
-    "thumbnail": "https://link-para-miniatura2.jpg",
-    "video_url": "https://link-para-video2.mp4"
-  }
-  
 ]
