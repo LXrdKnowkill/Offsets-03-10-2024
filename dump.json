@@ -53,11 +53,11 @@
             },
             {
                 "name": "m_hPlayerPawn",
-                "value": "0x80C"
+                "value": "0x814"
             },
             {
                 "name": "m_bPawnIsAlive",
-                "value": "0x814"
+                "value": "0x81C"
             }
         ]
     },
