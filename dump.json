@@ -150,7 +150,7 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x23B8"
+                "value": "0x1B58"
             },
             {
                 "name": "m_pWeaponServices",
@@ -239,15 +239,15 @@
             },
             {
                 "name": "m_iPawnArmor",
-                "value": "0x81C"
+                "value": "0x824"
             },
             {
                 "name": "m_bPawnHasDefuser",
-                "value": "0x820"
+                "value": "0x828"
             },
             {
                 "name": "m_bPawnHasHelmet",
-                "value": "0x821"
+                "value": "0x829"
             }
         ]
     },
