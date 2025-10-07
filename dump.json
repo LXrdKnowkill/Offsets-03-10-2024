@@ -4,39 +4,39 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x19FFE48"
+                "value": "0x1D16758"
             },
             {
                 "name": "dwGlobalVars",
-                "value": "0x1847EB0"
+                "value": "0x1BE7220"
             },
             {
                 "name": "dwLocalPlayerController",
-                "value": "0x1A4E870"
+                "value": "0x1E1FC08"
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x18540D0"
+                "value": "0x1BF1FA0"
             },
             {
                 "name": "dwPlantedC4",
-                "value": "0x1A6E098"
+                "value": "0x1E38398"
             },
             {
                 "name": "dwViewAngles",
-                "value": "0x1A733C0"
+                "value": "0x1E3E4E0"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x1A68FD0"
+                "value": "0x1E339D0"
             },
             {
                 "name": "dwWindowHeight",
-                "value": "0x62457C"
+                "value": "0x8EA624"
             },
             {
                 "name": "dwWindowWidth",
-                "value": "0x624578"
+                "value": "0x8EA620"
             }
         ]
     },
@@ -45,19 +45,19 @@
         "constants": [
             {
                 "name": "m_iszPlayerName",
-                "value": "0x660"
+                "value": "0x6E8"
             },
             {
                 "name": "m_flGravityScale",
-                "value": "0x460"
+                "value": "0x540"
             },
             {
                 "name": "m_hPlayerPawn",
-                "value": "0x824"
+                "value": "0x8FC"
             },
             {
                 "name": "m_bPawnIsAlive",
-                "value": "0x82C"
+                "value": "0x904"
             }
         ]
     },
@@ -86,7 +86,7 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x23D0"
+                "value": "0x2718"
             },
             {
                 "name": "m_bIsScoped",
@@ -190,11 +190,11 @@
             },
             {
                 "name": "m_iHealth",
-                "value": "0x344"
+                "value": "0x34C"
             },
             {
                 "name": "m_iTeamNum",
-                "value": "0x3E3"
+                "value": "0x3EB"
             },
             {
                 "name": "m_vecAbsVelocity",
