@@ -223,11 +223,11 @@
         "constants": [
             {
                 "name": "m_hPawn",
-                "value": "0x62C"
+                "value": "0x6B4"
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x11C0"
+                "value": "0x1420"
             },
             {
                 "name": "m_hController",
