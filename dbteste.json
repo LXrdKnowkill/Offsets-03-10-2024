@@ -4,39 +4,39 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x1D16758"
+                "value": "0x1D00690"
             },
             {
                 "name": "dwGlobalVars",
-                "value": "0x1BE7220"
+                "value": "0x1BD0E50"
             },
             {
                 "name": "dwLocalPlayerController",
-                "value": "0x1E1FC08"
+                "value": "0x1E0A348"
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x1BF1FA0"
+                "value": "0x1BDBB10"
             },
             {
                 "name": "dwPlantedC4",
-                "value": "0x1E38398"
+                "value": "0x1E23278"
             },
             {
                 "name": "dwViewAngles",
-                "value": "0x1E3E4E0"
+                "value": "0x1E28EA0"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x1E339D0"
+                "value": "0x1E1E920"
             },
             {
                 "name": "dwWindowHeight",
-                "value": "0x8EA624"
+                "value": "0x8ED624"
             },
             {
                 "name": "dwWindowWidth",
-                "value": "0x8EA620"
+                "value": "0x8ED620"
             }
         ]
     },
@@ -70,39 +70,39 @@
             },
             {
                 "name": "m_pBulletServices",
-                "value": "0x1690"
+                "value": "0x1678"
             },
             {
                 "name": "m_aimPunchAngle",
-                "value": "0x16FC"
+                "value": "0x16E4"
             },
             {
                 "name": "m_aimPunchCache",
-                "value": "0x1720"
+                "value": "0x1708"
             },
             {
                 "name": "m_bIsBuyMenuOpen",
-                "value": "0x174A"
+                "value": "0x1732"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1188"
+                "value": "0x1170"
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x2730"
+                "value": "0x2718"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x2732"
+                "value": "0x271A"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x2744"
+                "value": "0x272C"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x2764"
+                "value": "0x274C"
             },
             {
                 "name": "m_hViewModel",
@@ -122,27 +122,27 @@
             },
             {
                 "name": "m_vecLastClipCameraPos",
-                "value": "0x3DD4"
+                "value": "0x3DC4"
             },
             {
                 "name": "m_pClippingWeapon",
-                "value": "0x3DF0"
+                "value": "0x3DE0"
             },
             {
                 "name": "m_flFlashMaxAlpha",
-                "value": "0x1624"
+                "value": "0x160C"
             },
             {
                 "name": "m_flFlashDuration",
-                "value": "0x1628"
+                "value": "0x1610"
             },
             {
                 "name": "m_angEyeAngles",
-                "value": "0x3E00"
+                "value": "0x3DF0"
             },
             {
                 "name": "m_iIDEntIndex",
-                "value": "0x3EDC"
+                "value": "0x3ECC"
             },
             {
                 "name": "m_iDesiredFOV",
@@ -150,23 +150,23 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1188"
+                "value": "0x1170"
             },
             {
                 "name": "m_pWeaponServices",
-                "value": "0x1408"
+                "value": "0x13F0"
             },
             {
                 "name": "m_pCameraServices",
-                "value": "0x1440"
+                "value": "0x1428"
             },
             {
                 "name": "m_pMovementServices",
-                "value": "0x1448"
+                "value": "0x1430"
             },
             {
                 "name": "m_vOldOrigin",
-                "value": "0x15B8"
+                "value": "0x15A0"
             },
             {
                 "name": "m_bSpottedByMask",
@@ -210,11 +210,11 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1188"
+                "value": "0x1170"
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1188"
+                "value": "0x1170"
             }
         ]
     },
@@ -227,11 +227,11 @@
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x1420"
+                "value": "0x1408"
             },
             {
                 "name": "m_hController",
-                "value": "0x15D0"
+                "value": "0x15B8"
             },
             {
                 "name": "m_hObserverTarget",
@@ -256,23 +256,23 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x11D8"
+                "value": "0x11C0"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x1888"
+                "value": "0x1870"
             },
             {
                 "name": "m_nFallbackSeed",
-                "value": "0x188C"
+                "value": "0x1874"
             },
             {
                 "name": "m_flFallbackWear",
-                "value": "0x1890"
+                "value": "0x1878"
             },
             {
                 "name": "m_nFallbackStatTrak",
-                "value": "0x1894"
+                "value": "0x187C"
             },
             {
                 "name": "m_iEntityQuality",
@@ -288,7 +288,7 @@
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0x11D8"
+                "value": "0x11C0"
             }
         ]
     },
@@ -317,7 +317,7 @@
             },
             {
                 "name": "m_bInReload",
-                "value": "0x1A2C"
+                "value": "0x1A1C"
             },
             {
                 "name": "m_WeaponType",
@@ -333,7 +333,7 @@
             },
             {
                 "name": "m_flPenetration",
-                "value": "0x824"
+                "value": "0x82C"
             },
             {
                 "name": "m_nSubclassID",
@@ -346,23 +346,23 @@
         "constants": [
             {
                 "name": "m_nBombSite",
-                "value": "0x117C"
+                "value": "0x1164"
             },
             {
                 "name": "m_bBeingDefused",
-                "value": "0x11B4"
+                "value": "0x119C"
             },
             {
                 "name": "m_flDefuseCountDown",
-                "value": "0x11C8"
+                "value": "0x11B0"
             },
             {
                 "name": "m_flC4Blow",
-                "value": "0x11A8"
+                "value": "0x1190"
             },
             {
                 "name": "m_bC4Activated",
-                "value": "0x11C0"
+                "value": "0x11A8"
             }
         ]
     },
@@ -392,7 +392,7 @@
         "constants": [
             {
                 "name": "vecLastTrailLinePos",
-                "value": "0x140C"
+                "value": "0x13F4"
             },
             {
                 "name": "",
@@ -413,39 +413,39 @@
         "constants": [
             {
                 "name": "m_nSmokeEffectTickBegin",
-                "value": "0x1480"
+                "value": "0x1468"
             },
             {
                 "name": "m_bDidSmokeEffect",
-                "value": "0x1484"
+                "value": "0x146C"
             },
             {
                 "name": "m_nRandomSeed",
-                "value": "0x1488"
+                "value": "0x1470"
             },
             {
                 "name": "m_vSmokeColor",
-                "value": "0x148C"
+                "value": "0x1474"
             },
             {
                 "name": "m_vSmokeDetonationPos",
-                "value": "0x1498"
+                "value": "0x1480"
             },
             {
                 "name": "m_VoxelFrameData",
-                "value": "0x14A8"
+                "value": "0x1490"
             },
             {
                 "name": "m_bSmokeVolumeDataReceived",
-                "value": "0x14C8"
+                "value": "0x14B0"
             },
             {
                 "name": "m_bSmokeEffectSpawned",
-                "value": "0x14C9"
+                "value": "0x14B1"
             },
             {
                 "name": "m_vSmokeColor",
-                "value": "0x148C"
+                "value": "0x1474"
             }
         ]
     }
